@@ -1,0 +1,6 @@
+{
+  "name": "Orthopaedic Hospital & Medical Complex (OMC), Lahore",
+  "description": "Orthopaedic Hospital & Medical Complex (OMC), Lahore — Orthopaedic & Spine Surgery Unit LGH. Expert spine, joint, and orthopaedic care in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
